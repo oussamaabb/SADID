@@ -1,37 +1,36 @@
 ## Learn data for good use cases ...
+# SADID
+![Image](BANNER.png)
+## Approach:
+![Image](How to use Data Science for Social Good.png)
+# Demystifying data for social good
+## Use cases:
+# 1
+Identify individuals at the highest risk of becoming long-term unemployed and channel the employment institute’s limited resources to those most in need.
+# 2
+Targeted interventions to students with high risk of drop out of school the next year and coordinate with other branches of government to improve the impact of social programs in those schools that are more vulnerable.
+# 3
+Households tend to decrease their consumption when they have fewer resources. The UNDP Sudan office set out to test whether satellite data could be used to estimate poverty levels via changing night-time energy consumption. The team used data pulled from night-time satellite imagery, analyzing these illumination values over a two-year period, in conjunction with electric power consumption data provided by the national electricity authority. The proof-of-concept successfully showed that the availability of electricity can be measured from outer space and also reflected the energy poverty prevalent in the country
+# 4
+Low-income workers in Seoul needed a new transportation option for commuting late at night. There was no night bus service, and taxis were expensive and hard to find. To establish a new night bus route, city officials analyzed aggregated and anonymized mobile phone usage patterns to understand the most common points of departure and destination for travelers. This insight allowed officials to efficiently create a targeted “Owl Bus” route map, which best served late-night travelers. 
 
-You can use the [editor on GitHub](https://github.com/oussamaabb/SADID/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+**Ongoing Projects**
+# Project 1
+- 
+- 
+# Project 2
+- 
+- 
+# Project 3
+- 
+- 
+**Partners**
+- _Partner_
+'
+`For partner in partners`
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oussamaabb/SADID/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
