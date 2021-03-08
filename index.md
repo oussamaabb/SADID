@@ -14,4 +14,4 @@ Households tend to decrease their consumption when they have fewer resources. Th
 # 4
 Low-income workers in Seoul needed a new transportation option for commuting late at night. There was no night bus service, and taxis were expensive and hard to find. To establish a new night bus route, city officials analyzed aggregated and anonymized mobile phone usage patterns to understand the most common points of departure and destination for travelers. This insight allowed officials to efficiently create a targeted “Owl Bus” route map, which best served late-night travelers. 
 
-[![Image](favicon.ico) link](https://www.google.com)
+### Join us @ LinkedIn [![Image](favicon.ico)](https://www.linkedin.com/company/sadid)
